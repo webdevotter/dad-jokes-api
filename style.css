@@ -44,7 +44,7 @@ h3 {
 }
 
 .btn {
-    background-color: orange;
+    background-color: #686de0;
     border: 0;
     border-radius: 10px;
     color: white;
@@ -58,6 +58,3 @@ h3 {
     transform: scale(0.95);
 }
 
-.btn:hover {
-    background-color: rgba(159, 104, 224, 0.9) ;
-}
